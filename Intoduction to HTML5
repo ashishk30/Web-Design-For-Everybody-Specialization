@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>MY FINAL PROJECT</title>
+	<link rel="stylesheet" href="css/together.css">
+</head>
+	<body>
+		<header>
+			<h1><mark>ASHISH SACHIN KULKARNI</mark></h1>
+			<nav>
+				<a href="#">One</a>
+				<a href="#">TWO</a>
+				<a href="#">Three</a>
+				<a href="#">Home</a>
+			</nav>
+		</header>
+		<section class="half">
+			<h2>Favorite Foods</h2>
+			<ul>
+				<li><mark>Ice Cream</mark></li>
+				<li><mark>Pizza</mark></li>
+				<li><mark>Chocolates</mark></li>
+				<li><mark>Cakes</mark></li>
+			</ul>
+		</section>
+		<section class="half">
+			<h2>Achievements</h2>
+			Progress in this course(100%)<progress value="100" max="100"></progress><br>
+			Progress in the Specialization capstone(20%)<progress value="20" max="100"></progress><br>
+			Progress in life goals<mark>(45%)</mark><progress value="56" max="100"></progress><br>
+		</section>
+		<section class="whole">
+			<h2>More About Me</h2>
+			<details>
+				<summary>My Childhood</summary>
+				<p><mark>I grew up in Pune,India.I have had a lot of fun during my childhood days.I love to recall my childhood memories.</mark></p>
+			</details>
+		</section>
+		<footer>
+			<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="logo">
+			This page was created by <mark>Ashish Kulkarni</mark> &amp; Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
+		</footer>
+	</body>
+</html>
+				
